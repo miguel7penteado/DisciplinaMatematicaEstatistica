@@ -1,21 +1,20 @@
 --- 
-title: "A Minimal Book Example"
-author: "John Doe"
+title: "UNIP - Matemática e Estatística - Anotações de Aula"
+subtitle: "Curso de Análise de Sistemas - 2025"
+author: ["Professor Miguel Suez Xve Penteado",""]
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
-# url: your book url like https://bookdown.org/yihui/bookdown
-# cover-image: path to the social sharing image like images/cover.jpg
-description: |
-  This is a minimal example of using the bookdown package to write a book.
-  The HTML output format for this example is bookdown::gitbook,
-  set in the _output.yml file.
+url: https\://miguel7penteado.github.io/disciplinamatematicaestatistica/
+cover-image: images/cover.jpg
+github-repo: miguel7penteado/DisciplinaMatematicaEstatistica
+description: 'Este é um livro de anotações de aula da disciplina de Matemática e Estatística do curso de Análise de Sistemas da UNIP - turma 2025'
+
 link-citations: yes
-github-repo: rstudio/bookdown-demo
 ---
 
-# About
+# Tópicos {-}
 
 This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports; for example, a math equation $a^2 + b^2 = c^2$.
 

@@ -1,0 +1,89 @@
+# Matemática Básica - Revisão
+
+Cross-references make it easier for your readers to find and link to elements in your book.
+
+## Expresões Algébricas
+
+São denominadas **expressões algébricas** as expressões matemáticas que possuem apenas letras ou números e letras.
+
+—————————————————————————————————————————————
+
+1)  $4x^2 - 10x$
+
+2)  $\frac{5x}{2}$
+
+3)  $2\sqrt{2x}+2$
+
+—————————————————————————————————————————————
+
+### Monômios:
+
+A expressão algébrica racional inteira é formada de apenas 1 termo:
+
++---------------------------+
+| -   $z^2$                 |
+|                           |
+| -   $4ac$                 |
+|                           |
+| -   $7\sqrt{\frac{3}{4}}$ |
++---------------------------+
+
+### Polinômios:
+
+A expressão algébrica racional e inteira formada de 2 ou mais termos:
+
++---------------------------------------------------------------------+
+| -   $a^2 + b^2 = c^2$ (teorema de Pitágoras)                        |
+|                                                                     |
+| -   $ax^2 + bx + c$ (equação da parábola)                           |
+|                                                                     |
+| -   $x = -b \pm \frac{\sqrt{{b^2 -4ac}}}{2a}$ (fórmula de baskhara) |
+|                                                                     |
+| -   $y=ax + b$ (equação da reta)                                    |
++---------------------------------------------------------------------+
+
+### Operações de SOMA e SUBTRAÇÃO com Polinômios:
+
+Considere o polinômio a seguir:
+
+$4x + 3y + 9x + 7z + 3x - 8y + 12x - 1y$
+
+É possível simplifica-lo somando os monômios semelhantes **somando os coeficientes** e **preservando as partes literais**:
+
+|                                            |
+|--------------------------------------------|
+| $$                                         
+  4x + 3y + 9x + 7z + 3x - 8y +12x -1y \\    
+  4x + 9x + 3x + 12x + 3y -8y -1y + 7z \\    
+  x(4 + 9 + 3 + 12) + y(3 - 8 -1) + z(7) \\  
+  x(28) + y(-6) + z(7) \\                    
+  28x -6y +7z                                
+  $$                                         |
+
+### Operações de MULTIPLICAÇÃO e DIVISÃO com Polinômios:
+
+Considere o polinômio a seguir:
+
+$\frac{7m^3ng^2 * 32m * 40ng^4}{14m^2g^3}$
+
+É possível simplifica-lo multiplicando os monômios semelhantes **multiplicando (ou dividindo) os coeficientes** e **multiplicando (ou dividindo) as partes literais**:
+
+|  |
+|----|
+| $$
+\frac{7m^3ng^2 * 32m * 40ng^4}{14m^2g^3}  \\\frac{(7 * 32 * 40)( m^3* n * g^2 * m * n * g^4 )}{ (14)(m^2 * g^3) } \\\frac{(8.960)( m^3* m * n * n * g^2  *  g^4 )}{ (14)(m^2 * g^3) } \\\frac{(8.960)( m^4* n^2 * g^6   )}{ (14)(m^2 * g^3) } \\(640)( m^2 * n^2 * g^3   ) \\640m^2g^3
+$$ |
+
+Considere o polinômio a seguir:
+
+$(5x - \frac{1}{2})\frac{3x}{4}$
+
+|                                           |
+|-------------------------------------------|
+| $$                                        
+ (5x - \frac{1}{2})\frac{3x}{4} \\          
+ (\frac{5x*3x}{1*4} - \frac{1*3x}{2*4}) \\  
+ (\frac{15x^2}{4}-\frac{3x}{8})             
+ $$                                         |
+
+## Porcentagem e Regra de Três
